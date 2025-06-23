@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @9nty9nine, you may know me as IMMANUEL
+- 👋 Hi, I’m @9nty9nine, you may know me as M3GAN DA PLUG 
 - 👀 I’m interested in cyber sec
 - 🌱 I’m currently a pro
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me emannueladigwu968@gmail.com
 
 
 <!---
